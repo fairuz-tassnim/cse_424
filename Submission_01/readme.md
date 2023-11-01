@@ -11,7 +11,7 @@ Paper Title: Ensemble Classification and IoT Based Pattern Recognition for Crop 
 
 
 Link to the paper: https://ieeexplore.ieee.org/abstract/document/9403896
-Student ID: 21101027
+
 
 
 
