@@ -38,7 +38,7 @@ ID: 20301192  Name: Sabiha Alam Chowdhury
 ID: 20301268  Name: Ashakuzzaman Odree.
 
 
-ID: 20301124  Name: Syed Ashik Joy.
+ID: 20301124  Name: Syed Ashik Mahamud.
 
 
 
