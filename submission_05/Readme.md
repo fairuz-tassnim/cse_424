@@ -7,7 +7,7 @@ overleaf read link : https://www.overleaf.com/project/656c8cf465b548e4e238c3fd
 Link to unlisted YouTube video: 
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1-C2g6BqhMLPAX7t5s3a7mIkhSnlHpBUa47yj6KacNhM/edit#slide=id.g2a5a6c44ce4_1_158
 
 
 Project title:
