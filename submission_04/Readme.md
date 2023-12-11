@@ -7,7 +7,7 @@ overleaf read link : https://www.overleaf.com/project/656c8cf465b548e4e238c3fd
 Link to unlisted YouTube video: 
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1_Vj6FKIjjUBFxU_VHaS6_0eihB8F8ssHrg7A3oImKqk/edit#slide=id.g2a578e5531e_1_252
 
 Project title:
 Identification of Iris Flower Varieties Through Machine Learning Techniques
